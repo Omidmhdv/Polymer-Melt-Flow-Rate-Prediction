@@ -1,5 +1,6 @@
 Polymer Melt Flow Rate Prediction
-A regression case study for DS5006 predicting polymer Melt Flow Rate (MFR) from industrial reactor process variables using scikit-learn.
+
+A regression case study for predicting polymer Melt Flow Rate (MFR) from industrial reactor process variables using scikit-learn.
 📋 Overview
 Models a real-time "soft sensor" (digital twin) to predict MFR continuously between infrequent lab samples (~2–8 hrs apart).
 📊 Dataset
