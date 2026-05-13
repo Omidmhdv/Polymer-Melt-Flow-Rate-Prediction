@@ -1,7 +1,3 @@
-Can you create a README for this?
-🗒️ Answer
-Here's a README for the Polymer Melt Flow Rate case study:
-
 Polymer Melt Flow Rate Prediction
 A regression case study for DS5006 predicting polymer Melt Flow Rate (MFR) from industrial reactor process variables using scikit-learn.
 📋 Overview
